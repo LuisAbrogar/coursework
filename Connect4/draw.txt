@@ -1,0 +1,2 @@
+Follow moves in order to test if the game reads a draw:
+003056643261200102121211254636655355444343
